@@ -1,0 +1,1 @@
+Aplicativo mobile de **Educação Ambiental e Separação de Resíduos**, desenvolvido em **React Native com Expo**, com o objetivo de sensibilizar os cidadãos sobre práticas ambientais sustentáveis ​​e gestão correta de resíduos sólidos urbanos.
